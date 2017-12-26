@@ -1,0 +1,31 @@
+{
+  "name": "ReactFlaskTemplate",
+  "version": "0.1.0",
+  "description": "Template repo for React and Flask projects",
+  "scripts": {
+    "build": "gulp"
+  },
+  "repository": "git+https://github.com/Ben-Wu/react-flask-template.git",
+  "keywords": [],
+  "author": "Ben Wu",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "webpack": "^3.8.1",
+    "webpack-dev-server": "^2.9.4",
+    "webpack-stream": "^4.0.0"
+  },
+  "dependencies": {
+    "css-loader": "^0.28.7",
+    "del": "^3.0.0",
+    "node-sass": "^4.7.2",
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1",
+    "sass-loader": "^6.0.6",
+    "style-loader": "^0.19.0"
+  }
+}
